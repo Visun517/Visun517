@@ -54,7 +54,7 @@
 <a href="https://fb.com/visun prabodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="visun prabodha" height="50" width="50" /></a>
 <a href="https://instagram.com/visun prabodha" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="visun prabodha" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/visun prabodha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="visun prabodha" height="50" width="50" /></a>
-<a href="mailto:visunpraboda999@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="visunpraboda999@gmail.com" height="50" width="50" />
+<a href="mailto:visunpraboda999@gmail.com" target="blank"> <img src="assets/icons8-gmail.svg" alt="Email" width="52px" height="50px">
 </p>
 
 ---
