@@ -17,7 +17,7 @@
   
 - ⚡ Fun fact **I think I am funny**
  
-- 🧐 My Port-folio **(https://my-port-folio-git-style-visuns-projects.vercel.app/)**
+- 🧐 My Port-folio **[My-portfolio](https://my-port-folio-git-style-visuns-projects.vercel.app/)**
 
 </td>
 <td width="50%" align="center">
