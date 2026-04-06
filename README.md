@@ -40,12 +40,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visun517&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visun517&theme=transparent&hide_border=true&title_color=0e75b6&text_color=8b949e&sideNums=8b949e&sideLabels=8b949e&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&currStreakNum=8b949e" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=visun517&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=0e75b6&text_color=8b949e" alt="Top Languages" />
-</div>
 
 ---
 
