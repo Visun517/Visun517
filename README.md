@@ -1,72 +1,56 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Visun Prabodha</h1>
+# Hi there, I'm Visun Prabodha 👋
+
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=visun517&label=Profile%20views&color=0e75b6&style=flat" alt="visun517" /> </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Computer Science and Software Engineering**
-
-- 🧑‍🎓 I’m an Undergraduate at **Institute of Software Engineering**
-
-- 💬 Ask me about **React, Vue, and GSAP**
-
-- 📫 How to reach me **visunpraboda999@gmail.com**
-  
-- ⚡ Fun fact **I think I am funny**
- 
-- 🧐 My Port-folio **[My-portfolio](https://my-port-folio-git-style-visuns-projects.vercel.app/)**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=visun517&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/visun-prabodha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:visunpraboda999@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://my-port-folio-git-style-visuns-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=visun517&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=visun517&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+## 👨‍💻 About Me
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=visun517&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+* 🌱 Currently learning **Computer Science & Software Engineering** at the **Institute of Software Engineering**.
+* 💡 Passionate about building modern applications, exploring **Microservices architectures**, and learning new tech stacks.
+* 💬 Ask me about: **React, Vue, Spring Boot, or GSAP**.
+* ⚡ Fun fact: I think I am funny!
 
----
+## 🛠️ Languages & Tools
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/visun prabodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="visun prabodha" height="50" width="50" /></a>
-<a href="https://instagram.com/visun prabodha" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="visun prabodha" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/visun prabodha" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="visun prabodha" height="50" width="50" /></a>
-  <br>
-<a href="mailto:visunpraboda999@gmail.com" target="blank"> <img src="communication.png" alt="Email" width="52px" height="50px">
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,go,react,vue,bootstrap&perline=9" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=spring,flutter,supabase,mysql,docker,kubernetes,git,linux,figma&perline=9" />
+  </a>
+</div>
 
----
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> </p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visun517&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visun517&theme=transparent&hide_border=true&title_color=0e75b6&text_color=8b949e&sideNums=8b949e&sideLabels=8b949e&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&currStreakNum=8b949e" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=visun517&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact&title_color=0e75b6&text_color=8b949e" alt="Top Languages" />
+</div>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/yourusername"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yourusername" /></a></p>
-
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+  </a>
+</div>
