@@ -33,18 +33,4 @@
     <img src="https://skillicons.dev/icons?i=spring,flutter,supabase,mysql,docker,kubernetes,git,linux,figma&perline=9" />
   </a>
 </div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visun517&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=0e75b6&text_color=8b949e&icon_color=0e75b6" height="165" alt="GitHub Stats" />
-
----
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
-  </a>
 </div>
